@@ -233,6 +233,7 @@ cms.souqcdn.com
 api.directory.signal.org
 contentproxy.signal.org
 turn1.whispersystems.org
+graph.oculus.com
 twitter.com
 upload.twitter.com
 api.twitter.com
